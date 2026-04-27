@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f5efe0;
+  --fg: #1f2a2e;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+  font-feature-settings: "ss01", "cv11";
+}
