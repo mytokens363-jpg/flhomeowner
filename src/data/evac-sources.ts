@@ -24,20 +24,21 @@ export type EvacSource = {
 
 export const EVAC_SOURCES: EvacSource[] = [
   {
-    countySlug: "broward",
-    serviceUrl:
-      "https://gis.broward.org/arcgis/rest/services/EvacuationZones/MapServer",
-    layerId: 0,
-    zoneField: "ZONE",
-    publicMap: "https://www.broward.org/Hurricane/Pages/EvacuationZones.aspx",
-  },
-  {
+    // Live lookup via Miami-Dade FDEM ArcGIS service — verified working
     countySlug: "miami-dade",
     serviceUrl:
-      "https://gisweb.miamidade.gov/arcgis/rest/services/Hurricane/MapServer",
+      "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/HurricaneEvacZone_gdb/FeatureServer",
     layerId: 0,
-    zoneField: "ZONE",
+    zoneField: "ZONEID",
     publicMap: "https://www.miamidade.gov/global/emergency/hurricane/evacuation-zones.page",
+  },
+  {
+    // Broward live GIS endpoint not confirmed — link to official map
+    countySlug: "broward",
+    serviceUrl: null,
+    layerId: null,
+    zoneField: null,
+    publicMap: "https://www.broward.org/Hurricane/Pages/EvacuationZones.aspx",
   },
   {
     countySlug: "palm-beach",
@@ -60,7 +61,7 @@ export const EVAC_SOURCES: EvacSource[] = [
     zoneField: null,
     publicMap: "https://www.pinellascounty.org/emergency/zones.htm",
   },
-  // ... extend to all 67 counties as endpoints are confirmed
+  // Additional county endpoints added as GIS services are verified
 ];
 
 export const getEvacSource = (countySlug: string) =>
