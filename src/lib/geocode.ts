@@ -1,12 +1,8 @@
 /**
- * Free geocoding via OpenStreetMap Nominatim.
- * Usage policy: max 1 req/sec, set User-Agent, cache results.
- * https://operations.osmfoundation.org/policies/nominatim/
- *
- * For production scale, swap to:
- *   - Google Geocoding ($5 / 1k after free tier)
- *   - Mapbox ($0.50 / 1k)
- *   - PositionStack ($0.10 / 1k)
+ * Free geocoding via US Census Bureau Geocoding API.
+ * No API key, no rate limits worth worrying about, .gov — works from
+ * Cloudflare Workers edge runtime (Nominatim blocks datacenter IPs).
+ * https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf
  */
 
 export type GeocodeResult = {
@@ -17,23 +13,23 @@ export type GeocodeResult = {
 
 export async function geocode(address: string): Promise<GeocodeResult | null> {
   const params = new URLSearchParams({
-    q: `${address}, Florida, USA`,
+    address,
+    benchmark: "Public_AR_Current",
     format: "json",
-    limit: "1",
-    countrycodes: "us",
   });
 
-  const res = await fetch(`https://nominatim.openstreetmap.org/search?${params}`, {
-    headers: { "User-Agent": "flhomeowner.com / contact@flhomeowner.com" },
-  });
+  const res = await fetch(
+    `https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?${params}`
+  );
 
   if (!res.ok) return null;
   const data = await res.json();
-  if (!data?.[0]) return null;
+  const match = data?.result?.addressMatches?.[0];
+  if (!match) return null;
 
   return {
-    lat: parseFloat(data[0].lat),
-    lon: parseFloat(data[0].lon),
-    display: data[0].display_name,
+    lat: match.coordinates.y,
+    lon: match.coordinates.x,
+    display: match.matchedAddress,
   };
 }
