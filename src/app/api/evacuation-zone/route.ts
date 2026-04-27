@@ -3,6 +3,8 @@ import { geocode } from "@/lib/geocode";
 import { getEvacSource } from "@/data/evac-sources";
 import { getCounty } from "@/data/counties";
 
+export const runtime = "edge";
+
 export async function GET(req: NextRequest) {
   const address = req.nextUrl.searchParams.get("address");
   const countySlug = req.nextUrl.searchParams.get("county");
@@ -48,7 +50,7 @@ export async function GET(req: NextRequest) {
 
   try {
     const url = `${source.serviceUrl}/${source.layerId}/query?${params}`;
-    const res = await fetch(url, { next: { revalidate: 86400 } });
+    const res = await fetch(url);
     if (!res.ok) throw new Error(`GIS ${res.status}`);
     const data = await res.json();
     const zone =

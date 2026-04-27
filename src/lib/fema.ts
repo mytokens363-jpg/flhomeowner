@@ -39,7 +39,7 @@ export async function lookupFloodZone(
   });
 
   const url = `${NFHL_BASE}/${FLOOD_ZONE_LAYER}/query?${params}`;
-  const res = await fetch(url, { next: { revalidate: 86400 } });
+  const res = await fetch(url);
   if (!res.ok) throw new Error(`NFHL ${res.status}`);
   const data = await res.json();
 

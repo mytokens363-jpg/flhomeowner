@@ -25,7 +25,6 @@ export async function geocode(address: string): Promise<GeocodeResult | null> {
 
   const res = await fetch(`https://nominatim.openstreetmap.org/search?${params}`, {
     headers: { "User-Agent": "flhomeowner.com / contact@flhomeowner.com" },
-    next: { revalidate: 604800 }, // 7-day cache
   });
 
   if (!res.ok) return null;
