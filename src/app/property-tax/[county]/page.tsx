@@ -7,7 +7,7 @@ import PropertyTaxTool from "./PropertyTaxTool";
 import { FL_COUNTIES, getCounty } from "@/data/counties";
 import { pageMetadata, breadcrumbJsonLd } from "@/lib/seo";
 
-type Params = { county: string };
+type Params = Promise<{ county: string }>;
 
 export function generateStaticParams() {
   return FL_COUNTIES.map((c) => ({ county: c.slug }));
@@ -18,7 +18,8 @@ export async function generateMetadata({
 }: {
   params: Params;
 }): Promise<Metadata> {
-  const county = getCounty(params.county);
+  const { county: slug } = await params;
+  const county = getCounty(slug);
   if (!county) return {};
   return pageMetadata({
     title: `${county.name} County Property Tax Calculator (FL)`,
@@ -27,8 +28,9 @@ export async function generateMetadata({
   });
 }
 
-export default function CountyPropertyTaxPage({ params }: { params: Params }) {
-  const county = getCounty(params.county);
+export default async function CountyPropertyTaxPage({ params }: { params: Params }) {
+  const { county: slug } = await params;
+  const county = getCounty(slug);
   if (!county) notFound();
 
   const faqs = [
