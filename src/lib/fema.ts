@@ -1,23 +1,29 @@
 /**
  * FEMA National Flood Hazard Layer (NFHL) client.
- * Public REST API, no auth, no rate limit worth worrying about.
- * Docs: https://hazards.fema.gov/femaportal/wps/portal/NFHLWMS
+ * Edge-compatible — uses standard fetch only, no platform-specific cache hints.
  */
 
 const NFHL_BASE =
   "https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer";
 
-// Layer 28 = Flood Hazard Zones
 const FLOOD_ZONE_LAYER = 28;
 
 export type FloodZoneResult = {
   zone: string | null;
   zoneSubtype: string | null;
-  bfe: number | null;          // Base Flood Elevation, ft
-  panel: string | null;        // FIRM panel ID
-  panelDate: string | null;    // FIRM effective date
-  insuranceRequired: boolean;  // mandatory purchase trigger
-  description: string;         // plain-English summary
+  bfe: number | null;
+  panel: string | null;
+  panelDate: string | null;
+  insuranceRequired: boolean;
+  description: string;
+};
+
+type NFHLAttributes = {
+  FLD_ZONE?: string;
+  ZONE_SUBTY?: string;
+  STATIC_BFE?: number;
+  FIRM_PAN?: string;
+  EFF_DATE?: number;
 };
 
 export async function lookupFloodZone(
@@ -39,13 +45,32 @@ export async function lookupFloodZone(
   });
 
   const url = `${NFHL_BASE}/${FLOOD_ZONE_LAYER}/query?${params}`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`NFHL ${res.status}`);
-  const data = await res.json();
+  const res = await fetch(url, {
+    headers: { Accept: "application/json" },
+  });
+
+  if (!res.ok) {
+    throw new Error(`FEMA NFHL responded ${res.status}`);
+  }
+
+  // FEMA sometimes returns HTML on errors. Guard against it.
+  const contentType = res.headers.get("content-type") || "";
+  if (!contentType.includes("json")) {
+    const text = await res.text();
+    throw new Error(`FEMA returned non-JSON: ${text.slice(0, 200)}`);
+  }
+
+  const data = (await res.json()) as {
+    features?: { attributes: NFHLAttributes }[];
+    error?: { code: number; message: string };
+  };
+
+  if (data.error) {
+    throw new Error(`FEMA error ${data.error.code}: ${data.error.message}`);
+  }
 
   const feat = data.features?.[0];
   if (!feat) {
-    // No feature returned = unmapped or out of NFHL coverage (rare in FL)
     return {
       zone: null,
       zoneSubtype: null,
@@ -75,7 +100,6 @@ export async function lookupFloodZone(
 }
 
 function isHighRiskZone(zone: string): boolean {
-  // Special Flood Hazard Areas (SFHA) - federally backed mortgages require insurance
   return /^(A|AE|AH|AO|AR|A99|V|VE)/.test(zone);
 }
 
