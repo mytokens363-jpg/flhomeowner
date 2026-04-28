@@ -1,7 +1,5 @@
 import { NextResponse } from "next/server";
 
-export const runtime = "edge";
-
 /**
  * Ping each upstream from Cloudflare's edge.
  * Visit /api/debug to see what's reachable and what isn't.
@@ -39,7 +37,7 @@ export async function GET() {
     tests.nominatim = { error: err instanceof Error ? err.message : String(err) };
   }
 
-  // 3. FEMA NFHL with a known Florida coordinate (downtown Miami)
+  // 3. FEMA NFHL via Esri-hosted service (downtown Miami)
   try {
     const params = new URLSearchParams({
       geometry: JSON.stringify({
@@ -50,12 +48,12 @@ export async function GET() {
       geometryType: "esriGeometryPoint",
       inSR: "4326",
       spatialRel: "esriSpatialRelIntersects",
-      outFields: "FLD_ZONE",
+      outFields: "FLD_ZONE,ZONE_SUBTY",
       returnGeometry: "false",
       f: "json",
     });
     const r = await fetch(
-      `https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/28/query?${params}`
+      `https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/USA_Flood_Hazard_Reduced_Set_gdb/FeatureServer/0/query?${params}`
     );
     tests.fema = {
       status: r.status,

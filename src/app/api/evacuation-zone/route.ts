@@ -3,8 +3,6 @@ import { geocode } from "@/lib/geocode";
 import { getEvacSource } from "@/data/evac-sources";
 import { getCounty } from "@/data/counties";
 
-export const runtime = "edge";
-
 export async function GET(req: NextRequest) {
   const address = req.nextUrl.searchParams.get("address");
   const countySlug = req.nextUrl.searchParams.get("county");

@@ -1,12 +1,18 @@
 /**
  * FEMA National Flood Hazard Layer (NFHL) client.
- * Edge-compatible — uses standard fetch only, no platform-specific cache hints.
+ *
+ * Data source: Esri-hosted "USA Flood Hazard Reduced Set" FeatureServer.
+ * This is the same FEMA NFHL data but served from Esri's ArcGIS Online
+ * infrastructure, which doesn't block Cloudflare datacenter IPs the way
+ * hazards.fema.gov (IBM WebSEAL) does.
+ *
+ * Fields available: FLD_ZONE, ZONE_SUBTY (no BFE/panel in the reduced set).
  */
 
 const NFHL_BASE =
-  "https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer";
+  "https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/USA_Flood_Hazard_Reduced_Set_gdb/FeatureServer";
 
-const FLOOD_ZONE_LAYER = 28;
+const FLOOD_ZONE_LAYER = 0;
 
 export type FloodZoneResult = {
   zone: string | null;
@@ -21,9 +27,6 @@ export type FloodZoneResult = {
 type NFHLAttributes = {
   FLD_ZONE?: string;
   ZONE_SUBTY?: string;
-  STATIC_BFE?: number;
-  FIRM_PAN?: string;
-  EFF_DATE?: number;
 };
 
 export async function lookupFloodZone(
@@ -39,7 +42,7 @@ export async function lookupFloodZone(
     geometryType: "esriGeometryPoint",
     inSR: "4326",
     spatialRel: "esriSpatialRelIntersects",
-    outFields: "FLD_ZONE,ZONE_SUBTY,STATIC_BFE,FIRM_PAN,EFF_DATE",
+    outFields: "FLD_ZONE,ZONE_SUBTY",
     returnGeometry: "false",
     f: "json",
   });
@@ -89,11 +92,9 @@ export async function lookupFloodZone(
   return {
     zone: zone || null,
     zoneSubtype: a.ZONE_SUBTY || null,
-    bfe: a.STATIC_BFE && a.STATIC_BFE !== -9999 ? a.STATIC_BFE : null,
-    panel: a.FIRM_PAN || null,
-    panelDate: a.EFF_DATE
-      ? new Date(a.EFF_DATE).toISOString().slice(0, 10)
-      : null,
+    bfe: null,
+    panel: null,
+    panelDate: null,
     insuranceRequired,
     description: describeZone(zone),
   };
