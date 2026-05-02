@@ -1,0 +1,5210 @@
+{
+  "alachua": {
+    "slug": "alachua",
+    "name": "Alachua",
+    "countySeat": "Gainesville",
+    "population": 281751,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Gainesville",
+        "population": 148720
+      },
+      {
+        "name": "Alachua",
+        "population": 10856
+      },
+      {
+        "name": "Newberry",
+        "population": 8326
+      },
+      {
+        "name": "High Springs",
+        "population": 6806
+      },
+      {
+        "name": "Hawthorne",
+        "population": 1529
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Moderate rain flood risk defines the hazard profile for this inland region, contrasting with low storm surge potential. A population of 281,751 resides in communities such as Gainesville and High Springs, where recent federal declarations like Hurricane Milton have occurred. Precipitation events remain the primary driver of flooding concerns across the county."
+  },
+  "baker": {
+    "slug": "baker",
+    "name": "Baker",
+    "countySeat": "Macclenny",
+    "population": 28186,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Macclenny",
+        "population": 8178
+      },
+      {
+        "name": "Glen St. Mary",
+        "population": 504
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 4828,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in inland Florida, Baker County faces moderate rain flood risk despite having low storm surge exposure. The county's hazard profile is shaped by recent federal disaster declarations for hurricanes Helene and Milton, as well as Tropical Storm Debby in 2024."
+  },
+  "bay": {
+    "slug": "bay",
+    "name": "Bay",
+    "countySeat": "Panama City",
+    "population": 181368,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "panhandle",
+    "majorCities": [
+      {
+        "name": "Panama City",
+        "population": 37024
+      },
+      {
+        "name": "Lynn Haven",
+        "population": 21954
+      },
+      {
+        "name": "Panama City Beach",
+        "population": 19955
+      },
+      {
+        "name": "Callaway",
+        "population": 14138
+      },
+      {
+        "name": "Springfield",
+        "population": 8495
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in the Florida panhandle, Bay County faces high risks from both storm surge and rain flooding due to its coastal geography. The region has experienced frequent federal disaster declarations from tropical systems including Hurricane Michael in 2018 and Tropical Storm Helene in 2024."
+  },
+  "bradford": {
+    "slug": "bradford",
+    "name": "Bradford",
+    "countySeat": "Starke",
+    "population": 27888,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Starke",
+        "population": 5966
+      },
+      {
+        "name": "Lawtey",
+        "population": 682
+      },
+      {
+        "name": "Hampton",
+        "population": 498
+      },
+      {
+        "name": "Brooker",
+        "population": 339
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in the inland region, the county experiences moderate rain flood risk while maintaining low storm surge exposure. Recent federal disaster declarations include Hurricane Milton during 2024, following a pattern of significant weather impacts. Primary population centers like Starke and Lawtey remain vulnerable to these weather-related precipitation events."
+  },
+  "brevard": {
+    "slug": "brevard",
+    "name": "Brevard",
+    "countySeat": "Titusville",
+    "population": 620533,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "northeast",
+    "majorCities": [
+      {
+        "name": "Palm Bay",
+        "population": 142023
+      },
+      {
+        "name": "Melbourne",
+        "population": 87561
+      },
+      {
+        "name": "Titusville",
+        "population": 49883
+      },
+      {
+        "name": "Rockledge",
+        "population": 31429
+      },
+      {
+        "name": "West Melbourne",
+        "population": 31378
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in northeast Florida, this coastal county faces high risks from both storm surge and rain flooding. Recent federal disaster declarations include Hurricane Milton in 2024, adding to a history of significant weather events. Major population centers such as Palm Bay and Melbourne contribute to the exposure across the region."
+  },
+  "broward": {
+    "slug": "broward",
+    "name": "Broward",
+    "countySeat": "Fort Lauderdale",
+    "population": 1946127,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southeast",
+    "majorCities": [
+      {
+        "name": "Fort Lauderdale",
+        "population": 190641
+      },
+      {
+        "name": "Pembroke Pines",
+        "population": 179326
+      },
+      {
+        "name": "Hollywood",
+        "population": 159073
+      },
+      {
+        "name": "Miramar",
+        "population": 143242
+      },
+      {
+        "name": "Coral Springs",
+        "population": 140808
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Rita",
+        "year": 2005,
+        "disasterNumber": 3259,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the southeast region, this coastal county contends with extreme storm surge risk and high rain flood risk across its major cities. Population centers like Fort Lauderdale and Pembroke Pines have been impacted by multiple FEMA-declared hurricanes, including Milton in 2024 and Irma in 2017. The hazard profile reflects a history of repeated tropical system impacts within the region."
+  },
+  "calhoun": {
+    "slug": "calhoun",
+    "name": "Calhoun",
+    "countySeat": "Blountstown",
+    "population": 13593,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Blountstown",
+        "population": 2269
+      },
+      {
+        "name": "Altha",
+        "population": 495
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in the inland region, Calhoun County faces low storm surge risk alongside a moderate rain flood risk profile. Federal disaster declarations have been issued for systems including Tropical Storm Helene in 2024. With a population of 13,593 centered on the county seat of Blountstown, flood mitigation priorities focus on precipitation events."
+  },
+  "charlotte": {
+    "slug": "charlotte",
+    "name": "Charlotte",
+    "countySeat": "Punta Gorda",
+    "population": 195083,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southwest",
+    "majorCities": [
+      {
+        "name": "Punta Gorda",
+        "population": 20416
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in southwest Florida, Charlotte County faces extreme storm surge risk and high rain flood risk due to its coastal location. The area has a significant history of FEMA-declared disasters, including impacts from Hurricane Milton in 2024 and Hurricane Ian in 2022. These hazards impact the county seat of Punta Gorda and the broader coastal region."
+  },
+  "citrus": {
+    "slug": "citrus",
+    "name": "Citrus",
+    "countySeat": "Inverness",
+    "population": 158693,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Inverness",
+        "population": 7887
+      },
+      {
+        "name": "Crystal River",
+        "population": 3661
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in Florida's big-bend region, Citrus County faces high risks from both storm surge and rain flooding due to its coastal geography. The area has experienced a series of recent federal disaster declarations, including Hurricane Milton and Tropical Storm Helene in 2024, highlighting its exposure to severe weather events."
+  },
+  "clay": {
+    "slug": "clay",
+    "name": "Clay",
+    "countySeat": "Green Cove Springs",
+    "population": 223436,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Green Cove Springs",
+        "population": 10087
+      },
+      {
+        "name": "Orange Park",
+        "population": 8993
+      },
+      {
+        "name": "Keystone Heights",
+        "population": 1566
+      },
+      {
+        "name": "Penney Farms",
+        "population": 835
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 4828,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "As an inland county, Clay faces moderate rain flood risk despite low storm surge exposure. Recent federal disaster declarations for Hurricanes Helene and Milton in 2024 demonstrate the impact of severe weather on communities like Orange Park and Green Cove Springs. Mitigation planning prioritizes precipitation events given the inland location and low surge risk."
+  },
+  "collier": {
+    "slug": "collier",
+    "name": "Collier",
+    "countySeat": "Naples",
+    "population": 387681,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southwest",
+    "majorCities": [
+      {
+        "name": "Naples",
+        "population": 20168
+      },
+      {
+        "name": "Marco Island",
+        "population": 16554
+      },
+      {
+        "name": "Everglades",
+        "population": 396
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the southwest region, this coastal county experiences extreme storm surge risk alongside high rain flood risk. Major population centers such as Naples and Marco Island face recurring threats, evidenced by FEMA declarations for Hurricane Ian in 2022 and Hurricane Milton in 2024. Coastal exposure and recent tropical activity define the local flood hazard profile."
+  },
+  "columbia": {
+    "slug": "columbia",
+    "name": "Columbia",
+    "countySeat": "Lake City",
+    "population": 70755,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Lake City",
+        "population": 12783
+      },
+      {
+        "name": "Fort White",
+        "population": 669
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "As an inland county in northern Florida, Columbia County faces moderate rain flood risks rather than coastal storm surge threats. The region has experienced significant federal disaster declarations from recent systems, including Hurricane Milton and Tropical Storm Helene in 2024."
+  },
+  "desoto": {
+    "slug": "desoto",
+    "name": "DeSoto",
+    "countySeat": "Arcadia",
+    "population": 34719,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Arcadia",
+        "population": 7974
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 4828,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in inland Florida, DeSoto County records moderate rain flood risk alongside low storm surge risk. Recent FEMA declarations include Hurricane Helene in 2024, highlighting vulnerability to hurricane and tropical storm events impacting the county seat of Arcadia. This history of frequent storm impacts defines the local hazard profile for the population of 34,719."
+  },
+  "dixie": {
+    "slug": "dixie",
+    "name": "Dixie",
+    "countySeat": "Cross City",
+    "population": 16952,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Cross City",
+        "population": 1816
+      },
+      {
+        "name": "Horseshoe Beach",
+        "population": 173
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "High storm surge and rain flood risks characterize the flood profile for this coastal county in the big-bend region. Recent history includes federal disaster declarations for events such as Hurricane Milton in 2024 and Tropical Storm Helene. The primary communities of Cross City and Horseshoe Beach remain exposed to these recurring hazards."
+  },
+  "duval": {
+    "slug": "duval",
+    "name": "Duval",
+    "countySeat": "Jacksonville",
+    "population": 1007189,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "northeast",
+    "majorCities": [
+      {
+        "name": "Jacksonville",
+        "population": 1009833
+      },
+      {
+        "name": "Jacksonville Beach",
+        "population": 23630
+      },
+      {
+        "name": "Atlantic Beach",
+        "population": 13279
+      },
+      {
+        "name": "Neptune Beach",
+        "population": 7032
+      },
+      {
+        "name": "Baldwin",
+        "population": 1385
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 4828,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "As a coastal county in northeast Florida, Duval County is designated with high risk levels for both storm surge and rain flooding. The county seat of Jacksonville anchors a population exceeding one million, including beach communities such as Jacksonville Beach and Atlantic Beach. Federal disaster declarations have been issued for multiple recent events, including Hurricane Helene."
+  },
+  "escambia": {
+    "slug": "escambia",
+    "name": "Escambia",
+    "countySeat": "Pensacola",
+    "population": 323275,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "panhandle",
+    "majorCities": [
+      {
+        "name": "Pensacola",
+        "population": 53898
+      },
+      {
+        "name": "Century",
+        "population": 1780
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nate",
+        "year": 2017,
+        "disasterNumber": 3395,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in the panhandle, Escambia County faces high risks from both storm surge and rain-induced flooding due to its coastal geography. The region has experienced repeated federal disaster declarations from recent events, including Hurricanes Sally, Michael, and Ian, as well as Tropical Storms Debby and Helene."
+  },
+  "flagler": {
+    "slug": "flagler",
+    "name": "Flagler",
+    "countySeat": "Bunnell",
+    "population": 121710,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "northeast",
+    "majorCities": [
+      {
+        "name": "Palm Coast",
+        "population": 106729
+      },
+      {
+        "name": "Flagler Beach city (pt.)",
+        "population": 5490
+      },
+      {
+        "name": "Bunnell",
+        "population": 4120
+      },
+      {
+        "name": "Beverly Beach",
+        "population": 520
+      },
+      {
+        "name": "Marineland town (pt.)",
+        "population": 8
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in northeast Florida, Flagler County faces high risks from both storm surge and rain flooding due to its coastal geography. The county has experienced repeated federal disaster declarations from recent events including Hurricanes Milton, Ian, and Dorian, alongside Tropical Storms Debby and Idalia."
+  },
+  "franklin": {
+    "slug": "franklin",
+    "name": "Franklin",
+    "countySeat": "Apalachicola",
+    "population": 12418,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "panhandle",
+    "majorCities": [
+      {
+        "name": "Carrabelle",
+        "population": 2570
+      },
+      {
+        "name": "Apalachicola",
+        "population": 2461
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in the Florida panhandle, Franklin County faces high risks from both storm surge and rain-driven flooding due to its coastal geography. The area has experienced repeated federal disaster declarations from recent storms, including Hurricane Idalia in 2023 and Tropical Storm Helene in 2024."
+  },
+  "gadsden": {
+    "slug": "gadsden",
+    "name": "Gadsden",
+    "countySeat": "Quincy",
+    "population": 43642,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Quincy",
+        "population": 8119
+      },
+      {
+        "name": "Midway",
+        "population": 3485
+      },
+      {
+        "name": "Chattahoochee",
+        "population": 3028
+      },
+      {
+        "name": "Havana",
+        "population": 1756
+      },
+      {
+        "name": "Gretna",
+        "population": 1284
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in the inland region, Gadsden County faces moderate rain flood risk despite having low storm surge exposure. Recent federal disaster declarations include Tropical Storm Helene in 2024, marking a continued pattern of tropical system impacts. Population centers including Quincy, Midway, and Chattahoochee face hazards primarily driven by precipitation."
+  },
+  "gilchrist": {
+    "slug": "gilchrist",
+    "name": "Gilchrist",
+    "countySeat": "Trenton",
+    "population": 18494,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Trenton",
+        "population": 2267
+      },
+      {
+        "name": "Bell",
+        "population": 582
+      },
+      {
+        "name": "Fanning Springs city (pt.)",
+        "population": 535
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in Florida's inland region, this county presents a moderate rain flood risk while maintaining low exposure to storm surge. Federal disaster declarations have been issued frequently between 2020 and 2024, including events triggered by Hurricane Milton and Tropical Storm Helene. Primary communities like Trenton and Bell face hazard exposure primarily driven by precipitation rather than storm surge."
+  },
+  "glades": {
+    "slug": "glades",
+    "name": "Glades",
+    "countySeat": "Moore Haven",
+    "population": 12324,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Moore Haven",
+        "population": 1711
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaac",
+        "year": 2012,
+        "disasterNumber": 4084,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "As an inland county in Florida, Glades faces moderate rain flood risk rather than coastal storm surge threats. The area has experienced significant impacts from recent major events, including Hurricanes Ian and Milton, which were declared federal disasters in 2022 and 2024 respectively."
+  },
+  "gulf": {
+    "slug": "gulf",
+    "name": "Gulf",
+    "countySeat": "Port St. Joe",
+    "population": 14772,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "panhandle",
+    "majorCities": [
+      {
+        "name": "Port St. Joe",
+        "population": 3856
+      },
+      {
+        "name": "Wewahitchka",
+        "population": 2188
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in the panhandle region, this coastal county manages significant exposure to high storm surge and rain flood risks. Recent hurricane history includes events such as Tropical Storm Helene, impacting areas like Port St. Joe and Wewahitchka. The population of 14,772 residents faces recurring threats from these weather events and associated flooding hazards."
+  },
+  "hamilton": {
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "countySeat": "Jasper",
+    "population": 13445,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Jasper",
+        "population": 3549
+      },
+      {
+        "name": "Jennings",
+        "population": 772
+      },
+      {
+        "name": "White Springs",
+        "population": 760
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in the inland region, Hamilton County records low storm surge risk but maintains a moderate rain flood risk profile. Recent years have brought multiple federal disaster declarations to the area, including impacts from Hurricane Milton in 2024. Communities such as Jasper, Jennings, and White Springs remain subject to these recurring rain flood hazards."
+  },
+  "hardee": {
+    "slug": "hardee",
+    "name": "Hardee",
+    "countySeat": "Wauchula",
+    "population": 25508,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Wauchula",
+        "population": 4984
+      },
+      {
+        "name": "Bowling Green",
+        "population": 2456
+      },
+      {
+        "name": "Zolfo Springs",
+        "population": 1761
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Katrina",
+        "year": 2005,
+        "disasterNumber": 3220,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in inland Florida, Hardee County faces moderate rain flood risk despite having low storm surge exposure. The county has experienced multiple FEMA-declared events in recent years, including Hurricane Milton in 2024 and Hurricane Ian in 2022."
+  },
+  "hendry": {
+    "slug": "hendry",
+    "name": "Hendry",
+    "countySeat": "LaBelle",
+    "population": 40798,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Clewiston",
+        "population": 7496
+      },
+      {
+        "name": "LaBelle",
+        "population": 5472
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Katrina",
+        "year": 2005,
+        "disasterNumber": 3220,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in inland Florida, Hendry County faces moderate rain flood risk despite having low storm surge exposure. The county, which includes Clewiston and LaBelle, has experienced multiple FEMA-declared hurricane events in recent years, including Hurricane Ian in 2022 and Hurricane Milton in 2024."
+  },
+  "hernando": {
+    "slug": "hernando",
+    "name": "Hernando",
+    "countySeat": "Brooksville",
+    "population": 201512,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Brooksville",
+        "population": 9985
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in the big-bend region, this coastal county faces high storm surge and rain flood risks across a population of 201,512 residents. Recent federal disaster declarations include Hurricane Milton and Tropical Storm Helene, both occurring in 2024. Brooksville operates as the county seat within a jurisdiction that has experienced multiple tropical systems in recent years."
+  },
+  "highlands": {
+    "slug": "highlands",
+    "name": "Highlands",
+    "countySeat": "Sebring",
+    "population": 103808,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Sebring",
+        "population": 11795
+      },
+      {
+        "name": "Avon Park",
+        "population": 10415
+      },
+      {
+        "name": "Lake Placid",
+        "population": 2561
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Katrina",
+        "year": 2005,
+        "disasterNumber": 3220,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated within the inland region, Highlands County is defined by moderate rain flood risk and low storm surge exposure. The population centers of Sebring, Avon Park, and Lake Placid have received recent federal disaster declarations after events such as Hurricane Milton in 2024, which aligns with the documented hurricane history for the area."
+  },
+  "hillsborough": {
+    "slug": "hillsborough",
+    "name": "Hillsborough",
+    "countySeat": "Tampa",
+    "population": 1489634,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southwest",
+    "majorCities": [
+      {
+        "name": "Tampa",
+        "population": 414547
+      },
+      {
+        "name": "Plant City",
+        "population": 43046
+      },
+      {
+        "name": "Temple Terrace",
+        "population": 27588
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in southwest Florida, Hillsborough County faces extreme storm surge risk alongside high rain flood risk due to its coastal geography and dense urban centers like Tampa. The region has experienced multiple FEMA-declared events in recent years, including Hurricane Milton in 2024 and Hurricane Ian in 2022, highlighting the compounding threats from both tropical systems and heavy precipitation."
+  },
+  "holmes": {
+    "slug": "holmes",
+    "name": "Holmes",
+    "countySeat": "Bonifay",
+    "population": 19626,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Bonifay",
+        "population": 2838
+      },
+      {
+        "name": "Ponce de Leon",
+        "population": 518
+      },
+      {
+        "name": "Esto",
+        "population": 350
+      },
+      {
+        "name": "Westville",
+        "population": 268
+      },
+      {
+        "name": "Noma",
+        "population": 215
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "As an inland county in Florida, Holmes faces moderate rain flood risk rather than coastal storm surge threats. The area has a documented history of federal disaster declarations from tropical systems, including Hurricane Michael in 2018 and Tropical Storm Helene in 2024, which have impacted communities such as Bonifay and Ponce de Leon."
+  },
+  "indian-river": {
+    "slug": "indian-river",
+    "name": "Indian River",
+    "countySeat": "Vero Beach",
+    "population": 163856,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southeast",
+    "majorCities": [
+      {
+        "name": "Sebastian",
+        "population": 27087
+      },
+      {
+        "name": "Vero Beach",
+        "population": 17556
+      },
+      {
+        "name": "Fellsmere",
+        "population": 5028
+      },
+      {
+        "name": "Indian River Shores",
+        "population": 4466
+      },
+      {
+        "name": "Orchid",
+        "population": 545
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Katrina",
+        "year": 2005,
+        "disasterNumber": 3220,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in southeast Florida, this coastal county experiences extreme storm surge risk alongside high rain flood risk. Recent federal disaster declarations include Hurricane Milton in 2024 and Tropical Storm Nicole in 2022, highlighting recurring exposure. Major population centers like Vero Beach and Sebastian remain vulnerable to these combined flood hazards."
+  },
+  "jackson": {
+    "slug": "jackson",
+    "name": "Jackson",
+    "countySeat": "Marianna",
+    "population": 47652,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Marianna",
+        "population": 7975
+      },
+      {
+        "name": "Graceville",
+        "population": 2219
+      },
+      {
+        "name": "Sneads",
+        "population": 1780
+      },
+      {
+        "name": "Malone",
+        "population": 1642
+      },
+      {
+        "name": "Grand Ridge",
+        "population": 925
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in the inland region, Jackson County experiences moderate rain flood risk while storm surge risk remains low. Communities including Marianna and Sneads have sustained damage from multiple FEMA-declared hurricanes such as Helene. Flood planning must prioritize precipitation hazards over coastal inundation given the absence of a shoreline."
+  },
+  "jefferson": {
+    "slug": "jefferson",
+    "name": "Jefferson",
+    "countySeat": "Monticello",
+    "population": 14713,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Monticello",
+        "population": 2754
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 4564,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the Big Bend region, Jefferson County is classified as coastal with high risks for both storm surge and rain flooding. Recent federal disaster declarations include Tropical Storm Helene, highlighting vulnerability to tropical systems. Approximately 14,713 residents across the county and its seat of Monticello face recurring threats from these severe weather patterns."
+  },
+  "lafayette": {
+    "slug": "lafayette",
+    "name": "Lafayette",
+    "countySeat": "Mayo",
+    "population": 8035,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Mayo",
+        "population": 1087
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "As an inland county, Lafayette faces low storm surge risk but contends with moderate rain flood hazards across the county. Recent federal disaster declarations following Hurricane Milton and Tropical Storm Helene in 2024 demonstrate the area's vulnerability to severe precipitation events. With a population of 8,035, the county seat of Mayo remains subject to these inland flooding risks."
+  },
+  "lake": {
+    "slug": "lake",
+    "name": "Lake",
+    "countySeat": "Tavares",
+    "population": 398696,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Clermont",
+        "population": 50851
+      },
+      {
+        "name": "Leesburg",
+        "population": 37815
+      },
+      {
+        "name": "Eustis",
+        "population": 25067
+      },
+      {
+        "name": "Groveland",
+        "population": 24602
+      },
+      {
+        "name": "Tavares",
+        "population": 22007
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in the inland region, Lake County faces moderate rain flood risk without coastal storm surge exposure. Recent federal disaster declarations following Hurricane Milton and Hurricane Ian underscore the vulnerability of major cities like Clermont and Leesburg to tropical systems. The jurisdiction supports 398,696 residents and has faced significant weather events since Hurricane Matthew in 2016."
+  },
+  "lee": {
+    "slug": "lee",
+    "name": "Lee",
+    "countySeat": "Fort Myers",
+    "population": 792692,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southwest",
+    "majorCities": [
+      {
+        "name": "Cape Coral",
+        "population": 233025
+      },
+      {
+        "name": "Fort Myers",
+        "population": 99918
+      },
+      {
+        "name": "Bonita Springs",
+        "population": 57112
+      },
+      {
+        "name": "Estero",
+        "population": 38443
+      },
+      {
+        "name": "Sanibel",
+        "population": 6358
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the southwest region, this coastal county contends with extreme storm surge risk and high rain flood risk across its boundaries. With a population of 792,692 concentrated in cities like Fort Myers, Cape Coral, and Sanibel, the area faces confirmed exposure from FEMA-declared disasters including Hurricane Ian and Hurricane Milton."
+  },
+  "leon": {
+    "slug": "leon",
+    "name": "Leon",
+    "countySeat": "Tallahassee",
+    "population": 295335,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Tallahassee",
+        "population": 205089
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in inland Florida, Leon County faces moderate rain flood risk despite low storm surge exposure. The county seat of Tallahassee and surrounding areas have experienced repeated federal disaster declarations from tropical systems, including Hurricane Michael in 2018 and Tropical Storm Helene in 2024."
+  },
+  "levy": {
+    "slug": "levy",
+    "name": "Levy",
+    "countySeat": "Bronson",
+    "population": 44276,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Williston",
+        "population": 3433
+      },
+      {
+        "name": "Chiefland",
+        "population": 2444
+      },
+      {
+        "name": "Inglis",
+        "population": 1622
+      },
+      {
+        "name": "Bronson",
+        "population": 1263
+      },
+      {
+        "name": "Fanning Springs city (pt.)",
+        "population": 806
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the big-bend region, this coastal jurisdiction faces high risks for both storm surge and rain flooding. Federal disaster declarations following Hurricane Milton in 2024 underscore the recurring threat to populated areas like Chiefland and Williston. Persistent exposure to these hazards affects the 44,276 residents across the county."
+  },
+  "liberty": {
+    "slug": "liberty",
+    "name": "Liberty",
+    "countySeat": "Bristol",
+    "population": 7650,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Bristol",
+        "population": 942
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Liberty County is situated in the inland region, characterized by moderate rain flood risk and low storm surge exposure. Recent FEMA-declared disasters affecting the area include Tropical Storms Helene and Debby in 2024, as well as Hurricanes Ian and Nicole in 2022. The county seat of Bristol serves a population of 7,650 residents across this non-coastal jurisdiction."
+  },
+  "madison": {
+    "slug": "madison",
+    "name": "Madison",
+    "countySeat": "Madison",
+    "population": 18113,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Madison",
+        "population": 2994
+      },
+      {
+        "name": "Greenville",
+        "population": 774
+      },
+      {
+        "name": "Lee",
+        "population": 380
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in the inland region, this county faces moderate rain flood risk while maintaining low storm surge exposure. Recent tropical events include Hurricane Milton and Tropical Storm Helene in 2024, with additional declarations recorded since 2018. Primary population centers include the county seat of Madison along with Greenville and Lee."
+  },
+  "manatee": {
+    "slug": "manatee",
+    "name": "Manatee",
+    "countySeat": "Bradenton",
+    "population": 416020,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southwest",
+    "majorCities": [
+      {
+        "name": "Bradenton",
+        "population": 58184
+      },
+      {
+        "name": "Palmetto",
+        "population": 13682
+      },
+      {
+        "name": "Holmes Beach",
+        "population": 3049
+      },
+      {
+        "name": "Longboat Key town (pt.)",
+        "population": 2744
+      },
+      {
+        "name": "Anna Maria",
+        "population": 1016
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in southwest Florida, this coastal jurisdiction contends with extreme storm surge risk and high rain flood risk affecting a population of 416,020. Urban centers including Bradenton and Holmes Beach fall within a hazard zone frequently impacted by named storms, evidenced by declarations for Hurricane Milton in 2024."
+  },
+  "marion": {
+    "slug": "marion",
+    "name": "Marion",
+    "countySeat": "Ocala",
+    "population": 387697,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Ocala",
+        "population": 70251
+      },
+      {
+        "name": "Belleview",
+        "population": 6156
+      },
+      {
+        "name": "Dunnellon",
+        "population": 2043
+      },
+      {
+        "name": "McIntosh",
+        "population": 532
+      },
+      {
+        "name": "Reddick",
+        "population": 516
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in the inland region, Marion County faces moderate rain flood risk despite low storm surge exposure. The area has received federal disaster declarations for multiple events, including Hurricane Milton and Tropical Storm Helene in 2024. Municipalities such as Ocala and Dunnellon are subject to these precipitation-driven hazards rather than coastal surge."
+  },
+  "martin": {
+    "slug": "martin",
+    "name": "Martin",
+    "countySeat": "Stuart",
+    "population": 160464,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southeast",
+    "majorCities": [
+      {
+        "name": "Stuart",
+        "population": 19566
+      },
+      {
+        "name": "Indiantown",
+        "population": 6810
+      },
+      {
+        "name": "Sewall's Point",
+        "population": 2072
+      },
+      {
+        "name": "Jupiter Island",
+        "population": 837
+      },
+      {
+        "name": "Ocean Breeze",
+        "population": 402
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaac",
+        "year": 2012,
+        "disasterNumber": 4084,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Martin County is situated in the southeast region of Florida and maintains a coastal status that contributes to extreme storm surge risk. Recent FEMA-declared events include Hurricane Milton in 2024, alongside a high rain flood risk designation. Communities such as Stuart and Jupiter Island are part of a population exceeding 160,000 residents facing these combined hazards."
+  },
+  "miami-dade": {
+    "slug": "miami-dade",
+    "name": "Miami-Dade",
+    "countySeat": "Miami",
+    "population": 2685296,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southeast",
+    "majorCities": [
+      {
+        "name": "Miami",
+        "population": 487014
+      },
+      {
+        "name": "Hialeah",
+        "population": 235388
+      },
+      {
+        "name": "Miami Gardens",
+        "population": 116173
+      },
+      {
+        "name": "Homestead",
+        "population": 85796
+      },
+      {
+        "name": "Doral",
+        "population": 83625
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Rita",
+        "year": 2005,
+        "disasterNumber": 3259,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the southeast region, this coastal county contends with extreme storm surge risk and high rain flood risk across its urbanized landscape. The population exceeds 2.6 million residents in major cities such as Miami and Hialeah, contributing to vulnerability during events like Hurricane Milton in 2024 and Hurricane Irma in 2017."
+  },
+  "monroe": {
+    "slug": "monroe",
+    "name": "Monroe",
+    "countySeat": "Key West",
+    "population": 81840,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "keys",
+    "majorCities": [
+      {
+        "name": "Key West",
+        "population": 25240
+      },
+      {
+        "name": "Marathon",
+        "population": 10039
+      },
+      {
+        "name": "Islamorada, Village of Islands",
+        "population": 7013
+      },
+      {
+        "name": "Key Colony Beach",
+        "population": 749
+      },
+      {
+        "name": "Layton",
+        "population": 208
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated within the keys region, this coastal county contends with extreme storm surge risk and high rain flood risk across its populated areas. With a population exceeding 81,000, major municipalities including Key West and Marathon have experienced multiple federal disaster declarations, such as Hurricane Milton in 2024 and Hurricane Irma in 2017."
+  },
+  "nassau": {
+    "slug": "nassau",
+    "name": "Nassau",
+    "countySeat": "Fernandina Beach",
+    "population": 94653,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "northeast",
+    "majorCities": [
+      {
+        "name": "Fernandina Beach",
+        "population": 13672
+      },
+      {
+        "name": "Hilliard",
+        "population": 3077
+      },
+      {
+        "name": "Callahan",
+        "population": 1785
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 4828,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in northeast Florida, Nassau County faces high storm surge and rain flood risks due to its coastal status. Recent federal disaster declarations include Hurricane Helene, Hurricane Milton, and Tropical Storm Debby in 2024. The county seat, Fernandina Beach, lies within this vulnerable coastal zone."
+  },
+  "okaloosa": {
+    "slug": "okaloosa",
+    "name": "Okaloosa",
+    "countySeat": "Crestview",
+    "population": 214281,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "panhandle",
+    "majorCities": [
+      {
+        "name": "Crestview",
+        "population": 30727
+      },
+      {
+        "name": "Fort Walton Beach",
+        "population": 21188
+      },
+      {
+        "name": "Niceville",
+        "population": 17919
+      },
+      {
+        "name": "Destin",
+        "population": 13991
+      },
+      {
+        "name": "Valparaiso",
+        "population": 4852
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the panhandle region, this coastal county faces high storm surge and rain flood risk. Federal disaster declarations have been issued for recent events including Hurricane Sally and Tropical Storm Helene, affecting major cities like Destin and Fort Walton Beach. Populated areas throughout the county remain exposed to these recurring hazards."
+  },
+  "okeechobee": {
+    "slug": "okeechobee",
+    "name": "Okeechobee",
+    "countySeat": "Okeechobee",
+    "population": 40249,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Okeechobee",
+        "population": 5731
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located within the inland region, Okeechobee County faces moderate rain flood risk despite having low storm surge exposure due to its non-coastal status. Federal disaster declarations have occurred for recent events including Hurricane Milton in 2024, underscoring the need for mitigation planning among the 40,249 residents."
+  },
+  "orange": {
+    "slug": "orange",
+    "name": "Orange",
+    "countySeat": "Orlando",
+    "population": 1440471,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Orlando",
+        "population": 334854
+      },
+      {
+        "name": "Apopka",
+        "population": 62777
+      },
+      {
+        "name": "Ocoee",
+        "population": 51269
+      },
+      {
+        "name": "Winter Garden",
+        "population": 48771
+      },
+      {
+        "name": "Winter Park",
+        "population": 30835
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in inland Florida, Orange County faces moderate rain flood risks despite having low storm surge exposure. The county's hazard profile is shaped by its dense urban core, including Orlando and Apopka, and a history of repeated federal disaster declarations from storms such as Hurricane Milton and Hurricane Ian."
+  },
+  "osceola": {
+    "slug": "osceola",
+    "name": "Osceola",
+    "countySeat": "Kissimmee",
+    "population": 406943,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Kissimmee",
+        "population": 84756
+      },
+      {
+        "name": "St. Cloud",
+        "population": 71036
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in the inland region, Osceola County experiences moderate rain flood risk despite having low storm surge exposure due to its non-coastal status. The population of 406,943 residing in major cities like Kissimmee and St. Cloud has been affected by recent FEMA-declared storms including Hurricane Milton and Tropical Storm Debby."
+  },
+  "palm-beach": {
+    "slug": "palm-beach",
+    "name": "Palm Beach",
+    "countySeat": "West Palm Beach",
+    "population": 1507453,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southeast",
+    "majorCities": [
+      {
+        "name": "West Palm Beach",
+        "population": 127744
+      },
+      {
+        "name": "Boca Raton",
+        "population": 102238
+      },
+      {
+        "name": "Boynton Beach",
+        "population": 83095
+      },
+      {
+        "name": "Delray Beach",
+        "population": 70140
+      },
+      {
+        "name": "Palm Beach Gardens",
+        "population": 63284
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaac",
+        "year": 2012,
+        "disasterNumber": 4084,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Hurricane Milton in 2024 and Hurricane Ian in 2022 are among the recent FEMA-declared events affecting this southeast coastal county. With extreme storm surge risk and high rain flood risk, the county supports a population of over 1.5 million across major cities like West Palm Beach and Boca Raton. These overlapping hazards characterize the flood profile for this county."
+  },
+  "pasco": {
+    "slug": "pasco",
+    "name": "Pasco",
+    "countySeat": "Dade City",
+    "population": 588758,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Zephyrhills",
+        "population": 22304
+      },
+      {
+        "name": "New Port Richey",
+        "population": 18130
+      },
+      {
+        "name": "Dade City",
+        "population": 9662
+      },
+      {
+        "name": "Port Richey",
+        "population": 3637
+      },
+      {
+        "name": "St. Leo",
+        "population": 2472
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in Florida's Big Bend region, Pasco County faces high risks from both storm surge and rain-induced flooding due to its coastal geography. The area has experienced repeated federal disaster declarations from recent events, including Hurricane Milton in 2024 and Tropical Storm Helene, highlighting its exposure to severe weather systems."
+  },
+  "pinellas": {
+    "slug": "pinellas",
+    "name": "Pinellas",
+    "countySeat": "Clearwater",
+    "population": 960565,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southwest",
+    "majorCities": [
+      {
+        "name": "St. Petersburg",
+        "population": 267102
+      },
+      {
+        "name": "Clearwater",
+        "population": 116811
+      },
+      {
+        "name": "Largo",
+        "population": 82337
+      },
+      {
+        "name": "Pinellas Park",
+        "population": 53503
+      },
+      {
+        "name": "Dunedin",
+        "population": 35932
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the southwest region, this coastal county experiences extreme storm surge risk combined with high rain flood risk across its densely populated area. Federal disaster declarations following Hurricane Milton in 2024 underscore the exposure of major municipalities including St. Petersburg and Clearwater."
+  },
+  "polk": {
+    "slug": "polk",
+    "name": "Polk",
+    "countySeat": "Bartow",
+    "population": 760961,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Lakeland",
+        "population": 124990
+      },
+      {
+        "name": "Winter Haven",
+        "population": 59975
+      },
+      {
+        "name": "Haines City",
+        "population": 42073
+      },
+      {
+        "name": "Bartow",
+        "population": 22084
+      },
+      {
+        "name": "Auburndale",
+        "population": 20659
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in the inland region, this county maintains a low storm surge risk but contends with moderate rain flood risk throughout its jurisdiction. Significant population centers including Lakeland and Winter Haven have been affected by recent tropical systems such as Hurricane Milton and Hurricane Ian. Multiple federal disaster declarations document the area's exposure to hurricanes and tropical storms since 2016."
+  },
+  "putnam": {
+    "slug": "putnam",
+    "name": "Putnam",
+    "countySeat": "Palatka",
+    "population": 74235,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Palatka",
+        "population": 10867
+      },
+      {
+        "name": "Crescent City",
+        "population": 1724
+      },
+      {
+        "name": "Interlachen",
+        "population": 1508
+      },
+      {
+        "name": "Pomona Park",
+        "population": 824
+      },
+      {
+        "name": "Welaka",
+        "population": 763
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 4828,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Situated in the inland region, this county experiences low storm surge risk while maintaining a moderate risk for rain flooding. Federal disaster declarations have recently occurred for Hurricane Helene and Tropical Storm Debby, both recorded in 2024. Palatka functions as the county seat among several major cities including Crescent City and Interlachen."
+  },
+  "santa-rosa": {
+    "slug": "santa-rosa",
+    "name": "Santa Rosa",
+    "countySeat": "Milton",
+    "population": 193719,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "panhandle",
+    "majorCities": [
+      {
+        "name": "Milton",
+        "population": 11182
+      },
+      {
+        "name": "Gulf Breeze",
+        "population": 6955
+      },
+      {
+        "name": "Jay",
+        "population": 583
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nate",
+        "year": 2017,
+        "disasterNumber": 3395,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in the Florida panhandle, Santa Rosa County faces high risks from both storm surge and rain flooding due to its coastal geography. The area has experienced multiple federal disaster declarations from recent storms, including Hurricane Michael in 2018 and Tropical Storm Helene in 2024."
+  },
+  "sarasota": {
+    "slug": "sarasota",
+    "name": "Sarasota",
+    "countySeat": "Sarasota",
+    "population": 449011,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southwest",
+    "majorCities": [
+      {
+        "name": "North Port",
+        "population": 92875
+      },
+      {
+        "name": "Sarasota",
+        "population": 57764
+      },
+      {
+        "name": "Venice",
+        "population": 29902
+      },
+      {
+        "name": "Longboat Key town (pt.)",
+        "population": 4719
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "This southwest Florida coastal county faces extreme storm surge risk alongside high rain flood risk across its major municipalities. Recent FEMA-declared disasters include Hurricane Milton and Hurricane Ian, affecting communities like North Port and Venice. A population of 449,011 resides in areas vulnerable to these compounded tropical hazards."
+  },
+  "seminole": {
+    "slug": "seminole",
+    "name": "Seminole",
+    "countySeat": "Sanford",
+    "population": 474912,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Sanford",
+        "population": 66919
+      },
+      {
+        "name": "Altamonte Springs",
+        "population": 47261
+      },
+      {
+        "name": "Oviedo",
+        "population": 41901
+      },
+      {
+        "name": "Winter Springs",
+        "population": 39822
+      },
+      {
+        "name": "Casselberry",
+        "population": 31650
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "As an inland county in Florida, Seminole faces moderate rain flood risk despite low storm surge exposure. The county seat of Sanford and major municipalities like Altamonte Springs have experienced impacts from recent FEMA-declared events including Hurricane Milton and Tropical Storm Debby in 2024. With a population exceeding 474,000, mitigation efforts prioritize inland water management over coastal surge protection."
+  },
+  "st-johns": {
+    "slug": "st-johns",
+    "name": "St. Johns",
+    "countySeat": "St. Augustine",
+    "population": 292243,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "northeast",
+    "majorCities": [
+      {
+        "name": "St. Augustine",
+        "population": 16033
+      },
+      {
+        "name": "St. Augustine Beach",
+        "population": 6808
+      },
+      {
+        "name": "Marineland town (pt.)",
+        "population": 1
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "As a coastal jurisdiction in northeast Florida, St. Johns County manages significant exposure to high storm surge and rain flood risks. Recent federal disaster declarations include Hurricane Milton in 2024, highlighting ongoing vulnerability across major cities such as St. Augustine and St. Augustine Beach."
+  },
+  "st-lucie": {
+    "slug": "st-lucie",
+    "name": "St. Lucie",
+    "countySeat": "Fort Pierce",
+    "population": 346237,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "southeast",
+    "majorCities": [
+      {
+        "name": "Port St. Lucie",
+        "population": 258575
+      },
+      {
+        "name": "Fort Pierce",
+        "population": 50805
+      },
+      {
+        "name": "St. Lucie Village",
+        "population": 615
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Matthew",
+        "year": 2016,
+        "disasterNumber": 3377,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaac",
+        "year": 2012,
+        "disasterNumber": 4084,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "extreme",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "St. Lucie County's flood profile is defined by its location in the southeast region and coastal status, resulting in extreme storm surge risk and high rain flood risk. Recent federal disaster declarations cover events such as Hurricane Milton in 2024, which affected major cities including Port St. Lucie and Fort Pierce."
+  },
+  "sumter": {
+    "slug": "sumter",
+    "name": "Sumter",
+    "countySeat": "Bushnell",
+    "population": 137536,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Wildwood",
+        "population": 19031
+      },
+      {
+        "name": "Bushnell",
+        "population": 3193
+      },
+      {
+        "name": "Center Hill",
+        "population": 1055
+      },
+      {
+        "name": "Webster",
+        "population": 965
+      },
+      {
+        "name": "Coleman",
+        "population": 789
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Eta",
+        "year": 2020,
+        "disasterNumber": 3551,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "As an inland jurisdiction, Sumter County faces moderate rain flood risk while maintaining low storm surge exposure. Federal disaster declarations following Hurricane Milton highlight vulnerability to precipitation events affecting municipalities like Wildwood and Bushnell. With a population of 137,536, the area remains distant from coastal hazards despite recent tropical activity."
+  },
+  "suwannee": {
+    "slug": "suwannee",
+    "name": "Suwannee",
+    "countySeat": "Live Oak",
+    "population": 44484,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Live Oak",
+        "population": 7200
+      },
+      {
+        "name": "Branford",
+        "population": 772
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in the inland region, this county faces moderate rain flood risk despite low storm surge exposure. Federal disaster declarations following Hurricane Milton in 2024 underscore the threat posed by heavy precipitation to communities like Live Oak and Branford, which comprise the primary population centers within the jurisdiction."
+  },
+  "taylor": {
+    "slug": "taylor",
+    "name": "Taylor",
+    "countySeat": "Perry",
+    "population": 21422,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Perry",
+        "population": 7306
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated in the Big Bend region, this coastal county contends with high storm surge and rain flood risks affecting the county seat of Perry. Multiple federal disaster declarations have occurred recently, including Hurricane Milton and Tropical Storm Idalia, highlighting the area's exposure to severe weather events. Tropical Storms Helene and Debby also impacted the county in 2024."
+  },
+  "union": {
+    "slug": "union",
+    "name": "Union",
+    "countySeat": "Lake Butler",
+    "population": 15551,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Lake Butler",
+        "population": 1983
+      },
+      {
+        "name": "Worthington Springs",
+        "population": 380
+      },
+      {
+        "name": "Raiford",
+        "population": 224
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Union County is located in inland Florida, characterized by moderate rain flood risk and low storm surge exposure. The area has received federal disaster declarations for multiple recent events, including Hurricane Milton and Tropical Storm Helene in 2024. Communities such as Lake Butler, Worthington Springs, and Raiford face these precipitation-related hazards without coastal surge threats."
+  },
+  "volusia": {
+    "slug": "volusia",
+    "name": "Volusia",
+    "countySeat": "DeLand",
+    "population": 568229,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "northeast",
+    "majorCities": [
+      {
+        "name": "Deltona",
+        "population": 100513
+      },
+      {
+        "name": "Daytona Beach",
+        "population": 86015
+      },
+      {
+        "name": "Port Orange",
+        "population": 66556
+      },
+      {
+        "name": "DeLand",
+        "population": 45587
+      },
+      {
+        "name": "Ormond Beach",
+        "population": 44596
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Milton",
+        "year": 2024,
+        "disasterNumber": 3622,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Isaias",
+        "year": 2020,
+        "disasterNumber": 3533,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Situated within the northeast region, this coastal county contends with high storm surge and rain flood risks across its populated areas. Recent federal disaster declarations include Hurricane Milton in 2024, listed among multiple historical events. The jurisdiction serves a population of 568,229 across major cities including Daytona Beach and Deltona."
+  },
+  "wakulla": {
+    "slug": "wakulla",
+    "name": "Wakulla",
+    "countySeat": "Crawfordville",
+    "population": 34608,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "big-bend",
+    "majorCities": [
+      {
+        "name": "Sopchoppy",
+        "population": 476
+      },
+      {
+        "name": "St. Marks",
+        "population": 312
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Idalia",
+        "year": 2023,
+        "disasterNumber": 3596,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 3587,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in Florida's Big Bend region, Wakulla County faces high risks from both storm surge and rainfall flooding due to its coastal geography. The area has experienced multiple FEMA-declared tropical storms and hurricanes in recent years, including Tropical Storm Helene in 2024 and Hurricane Michael in 2018."
+  },
+  "walton": {
+    "slug": "walton",
+    "name": "Walton",
+    "countySeat": "DeFuniak Springs",
+    "population": 79846,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": true,
+    "region": "panhandle",
+    "majorCities": [
+      {
+        "name": "Freeport",
+        "population": 7234
+      },
+      {
+        "name": "DeFuniak Springs",
+        "population": 7048
+      },
+      {
+        "name": "Paxton",
+        "population": 668
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Irma",
+        "year": 2017,
+        "disasterNumber": 3385,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "high",
+    "rainFloodRisk": "high",
+    "uniqueLocalContext": "Located in the panhandle region, Walton County maintains a coastal status with high risk ratings for both storm surge and rain flooding. The community has faced repeated FEMA-declared disasters in recent years, ranging from Hurricane Michael in 2018 to Tropical Storm Helene in 2024. With a population of 79,846, residents in cities including DeFuniak Springs and Freeport face exposure to these recurring hazards."
+  },
+  "washington": {
+    "slug": "washington",
+    "name": "Washington",
+    "countySeat": "Chipley",
+    "population": 25259,
+    "populationVintage": "ACS5 2023",
+    "isCoastal": false,
+    "region": "inland",
+    "majorCities": [
+      {
+        "name": "Chipley",
+        "population": 3741
+      },
+      {
+        "name": "Vernon",
+        "population": 744
+      },
+      {
+        "name": "Wausau",
+        "population": 390
+      },
+      {
+        "name": "Caryville",
+        "population": 318
+      },
+      {
+        "name": "Ebro",
+        "population": 246
+      }
+    ],
+    "hurricaneHistory": [
+      {
+        "name": "Helene",
+        "year": 2024,
+        "disasterNumber": 3615,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Debby",
+        "year": 2024,
+        "disasterNumber": 3605,
+        "type": "Tropical Storm"
+      },
+      {
+        "name": "Nicole",
+        "year": 2022,
+        "disasterNumber": 4680,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Ian",
+        "year": 2022,
+        "disasterNumber": 3584,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Fred",
+        "year": 2021,
+        "disasterNumber": 3562,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Sally",
+        "year": 2020,
+        "disasterNumber": 3546,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Dorian",
+        "year": 2019,
+        "disasterNumber": 3419,
+        "type": "Hurricane"
+      },
+      {
+        "name": "Michael",
+        "year": 2018,
+        "disasterNumber": 3405,
+        "type": "Hurricane"
+      }
+    ],
+    "stormSurgeRisk": "low",
+    "rainFloodRisk": "moderate",
+    "uniqueLocalContext": "Located in the inland region, Washington County experiences low storm surge risk but moderate rain flood risk across its municipalities. Federal disaster declarations have been issued for events including Hurricane Michael, indicating significant precipitation threats. Populations in Chipley and Vernon face flooding hazards driven primarily by rainfall rather than coastal water levels."
+  }
+}

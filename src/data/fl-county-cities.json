@@ -1,0 +1,1056 @@
+{
+  "alachua": [
+    {
+      "name": "Gainesville",
+      "population": 148720
+    },
+    {
+      "name": "Alachua",
+      "population": 10856
+    },
+    {
+      "name": "Newberry",
+      "population": 8326
+    },
+    {
+      "name": "High Springs",
+      "population": 6806
+    },
+    {
+      "name": "Hawthorne",
+      "population": 1529
+    }
+  ],
+  "baker": [
+    {
+      "name": "Macclenny",
+      "population": 8178
+    },
+    {
+      "name": "Glen St. Mary",
+      "population": 504
+    }
+  ],
+  "bay": [
+    {
+      "name": "Panama City",
+      "population": 37024
+    },
+    {
+      "name": "Lynn Haven",
+      "population": 21954
+    },
+    {
+      "name": "Panama City Beach",
+      "population": 19955
+    },
+    {
+      "name": "Callaway",
+      "population": 14138
+    },
+    {
+      "name": "Springfield",
+      "population": 8495
+    }
+  ],
+  "bradford": [
+    {
+      "name": "Starke",
+      "population": 5966
+    },
+    {
+      "name": "Lawtey",
+      "population": 682
+    },
+    {
+      "name": "Hampton",
+      "population": 498
+    },
+    {
+      "name": "Brooker",
+      "population": 339
+    }
+  ],
+  "brevard": [
+    {
+      "name": "Palm Bay",
+      "population": 142023
+    },
+    {
+      "name": "Melbourne",
+      "population": 87561
+    },
+    {
+      "name": "Titusville",
+      "population": 49883
+    },
+    {
+      "name": "Rockledge",
+      "population": 31429
+    },
+    {
+      "name": "West Melbourne",
+      "population": 31378
+    }
+  ],
+  "broward": [
+    {
+      "name": "Fort Lauderdale",
+      "population": 190641
+    },
+    {
+      "name": "Pembroke Pines",
+      "population": 179326
+    },
+    {
+      "name": "Hollywood",
+      "population": 159073
+    },
+    {
+      "name": "Miramar",
+      "population": 143242
+    },
+    {
+      "name": "Coral Springs",
+      "population": 140808
+    }
+  ],
+  "calhoun": [
+    {
+      "name": "Blountstown",
+      "population": 2269
+    },
+    {
+      "name": "Altha",
+      "population": 495
+    }
+  ],
+  "charlotte": [
+    {
+      "name": "Punta Gorda",
+      "population": 20416
+    }
+  ],
+  "citrus": [
+    {
+      "name": "Inverness",
+      "population": 7887
+    },
+    {
+      "name": "Crystal River",
+      "population": 3661
+    }
+  ],
+  "clay": [
+    {
+      "name": "Green Cove Springs",
+      "population": 10087
+    },
+    {
+      "name": "Orange Park",
+      "population": 8993
+    },
+    {
+      "name": "Keystone Heights",
+      "population": 1566
+    },
+    {
+      "name": "Penney Farms",
+      "population": 835
+    }
+  ],
+  "collier": [
+    {
+      "name": "Naples",
+      "population": 20168
+    },
+    {
+      "name": "Marco Island",
+      "population": 16554
+    },
+    {
+      "name": "Everglades",
+      "population": 396
+    }
+  ],
+  "columbia": [
+    {
+      "name": "Lake City",
+      "population": 12783
+    },
+    {
+      "name": "Fort White",
+      "population": 669
+    }
+  ],
+  "desoto": [
+    {
+      "name": "Arcadia",
+      "population": 7974
+    }
+  ],
+  "dixie": [
+    {
+      "name": "Cross City",
+      "population": 1816
+    },
+    {
+      "name": "Horseshoe Beach",
+      "population": 173
+    }
+  ],
+  "duval": [
+    {
+      "name": "Jacksonville",
+      "population": 1009833
+    },
+    {
+      "name": "Jacksonville Beach",
+      "population": 23630
+    },
+    {
+      "name": "Atlantic Beach",
+      "population": 13279
+    },
+    {
+      "name": "Neptune Beach",
+      "population": 7032
+    },
+    {
+      "name": "Baldwin",
+      "population": 1385
+    }
+  ],
+  "escambia": [
+    {
+      "name": "Pensacola",
+      "population": 53898
+    },
+    {
+      "name": "Century",
+      "population": 1780
+    }
+  ],
+  "flagler": [
+    {
+      "name": "Palm Coast",
+      "population": 106729
+    },
+    {
+      "name": "Flagler Beach city (pt.)",
+      "population": 5490
+    },
+    {
+      "name": "Bunnell",
+      "population": 4120
+    },
+    {
+      "name": "Beverly Beach",
+      "population": 520
+    },
+    {
+      "name": "Marineland town (pt.)",
+      "population": 8
+    }
+  ],
+  "franklin": [
+    {
+      "name": "Carrabelle",
+      "population": 2570
+    },
+    {
+      "name": "Apalachicola",
+      "population": 2461
+    }
+  ],
+  "gadsden": [
+    {
+      "name": "Quincy",
+      "population": 8119
+    },
+    {
+      "name": "Midway",
+      "population": 3485
+    },
+    {
+      "name": "Chattahoochee",
+      "population": 3028
+    },
+    {
+      "name": "Havana",
+      "population": 1756
+    },
+    {
+      "name": "Gretna",
+      "population": 1284
+    }
+  ],
+  "gilchrist": [
+    {
+      "name": "Trenton",
+      "population": 2267
+    },
+    {
+      "name": "Bell",
+      "population": 582
+    },
+    {
+      "name": "Fanning Springs city (pt.)",
+      "population": 535
+    }
+  ],
+  "glades": [
+    {
+      "name": "Moore Haven",
+      "population": 1711
+    }
+  ],
+  "gulf": [
+    {
+      "name": "Port St. Joe",
+      "population": 3856
+    },
+    {
+      "name": "Wewahitchka",
+      "population": 2188
+    }
+  ],
+  "hamilton": [
+    {
+      "name": "Jasper",
+      "population": 3549
+    },
+    {
+      "name": "Jennings",
+      "population": 772
+    },
+    {
+      "name": "White Springs",
+      "population": 760
+    }
+  ],
+  "hardee": [
+    {
+      "name": "Wauchula",
+      "population": 4984
+    },
+    {
+      "name": "Bowling Green",
+      "population": 2456
+    },
+    {
+      "name": "Zolfo Springs",
+      "population": 1761
+    }
+  ],
+  "hendry": [
+    {
+      "name": "Clewiston",
+      "population": 7496
+    },
+    {
+      "name": "LaBelle",
+      "population": 5472
+    }
+  ],
+  "hernando": [
+    {
+      "name": "Brooksville",
+      "population": 9985
+    }
+  ],
+  "highlands": [
+    {
+      "name": "Sebring",
+      "population": 11795
+    },
+    {
+      "name": "Avon Park",
+      "population": 10415
+    },
+    {
+      "name": "Lake Placid",
+      "population": 2561
+    }
+  ],
+  "hillsborough": [
+    {
+      "name": "Tampa",
+      "population": 414547
+    },
+    {
+      "name": "Plant City",
+      "population": 43046
+    },
+    {
+      "name": "Temple Terrace",
+      "population": 27588
+    }
+  ],
+  "holmes": [
+    {
+      "name": "Bonifay",
+      "population": 2838
+    },
+    {
+      "name": "Ponce de Leon",
+      "population": 518
+    },
+    {
+      "name": "Esto",
+      "population": 350
+    },
+    {
+      "name": "Westville",
+      "population": 268
+    },
+    {
+      "name": "Noma",
+      "population": 215
+    }
+  ],
+  "indian-river": [
+    {
+      "name": "Sebastian",
+      "population": 27087
+    },
+    {
+      "name": "Vero Beach",
+      "population": 17556
+    },
+    {
+      "name": "Fellsmere",
+      "population": 5028
+    },
+    {
+      "name": "Indian River Shores",
+      "population": 4466
+    },
+    {
+      "name": "Orchid",
+      "population": 545
+    }
+  ],
+  "jackson": [
+    {
+      "name": "Marianna",
+      "population": 7975
+    },
+    {
+      "name": "Graceville",
+      "population": 2219
+    },
+    {
+      "name": "Sneads",
+      "population": 1780
+    },
+    {
+      "name": "Malone",
+      "population": 1642
+    },
+    {
+      "name": "Grand Ridge",
+      "population": 925
+    }
+  ],
+  "jefferson": [
+    {
+      "name": "Monticello",
+      "population": 2754
+    }
+  ],
+  "lafayette": [
+    {
+      "name": "Mayo",
+      "population": 1087
+    }
+  ],
+  "lake": [
+    {
+      "name": "Clermont",
+      "population": 50851
+    },
+    {
+      "name": "Leesburg",
+      "population": 37815
+    },
+    {
+      "name": "Eustis",
+      "population": 25067
+    },
+    {
+      "name": "Groveland",
+      "population": 24602
+    },
+    {
+      "name": "Tavares",
+      "population": 22007
+    }
+  ],
+  "lee": [
+    {
+      "name": "Cape Coral",
+      "population": 233025
+    },
+    {
+      "name": "Fort Myers",
+      "population": 99918
+    },
+    {
+      "name": "Bonita Springs",
+      "population": 57112
+    },
+    {
+      "name": "Estero",
+      "population": 38443
+    },
+    {
+      "name": "Sanibel",
+      "population": 6358
+    }
+  ],
+  "leon": [
+    {
+      "name": "Tallahassee",
+      "population": 205089
+    }
+  ],
+  "levy": [
+    {
+      "name": "Williston",
+      "population": 3433
+    },
+    {
+      "name": "Chiefland",
+      "population": 2444
+    },
+    {
+      "name": "Inglis",
+      "population": 1622
+    },
+    {
+      "name": "Bronson",
+      "population": 1263
+    },
+    {
+      "name": "Fanning Springs city (pt.)",
+      "population": 806
+    }
+  ],
+  "liberty": [
+    {
+      "name": "Bristol",
+      "population": 942
+    }
+  ],
+  "madison": [
+    {
+      "name": "Madison",
+      "population": 2994
+    },
+    {
+      "name": "Greenville",
+      "population": 774
+    },
+    {
+      "name": "Lee",
+      "population": 380
+    }
+  ],
+  "manatee": [
+    {
+      "name": "Bradenton",
+      "population": 58184
+    },
+    {
+      "name": "Palmetto",
+      "population": 13682
+    },
+    {
+      "name": "Holmes Beach",
+      "population": 3049
+    },
+    {
+      "name": "Longboat Key town (pt.)",
+      "population": 2744
+    },
+    {
+      "name": "Anna Maria",
+      "population": 1016
+    }
+  ],
+  "marion": [
+    {
+      "name": "Ocala",
+      "population": 70251
+    },
+    {
+      "name": "Belleview",
+      "population": 6156
+    },
+    {
+      "name": "Dunnellon",
+      "population": 2043
+    },
+    {
+      "name": "McIntosh",
+      "population": 532
+    },
+    {
+      "name": "Reddick",
+      "population": 516
+    }
+  ],
+  "martin": [
+    {
+      "name": "Stuart",
+      "population": 19566
+    },
+    {
+      "name": "Indiantown",
+      "population": 6810
+    },
+    {
+      "name": "Sewall's Point",
+      "population": 2072
+    },
+    {
+      "name": "Jupiter Island",
+      "population": 837
+    },
+    {
+      "name": "Ocean Breeze",
+      "population": 402
+    }
+  ],
+  "miami-dade": [
+    {
+      "name": "Miami",
+      "population": 487014
+    },
+    {
+      "name": "Hialeah",
+      "population": 235388
+    },
+    {
+      "name": "Miami Gardens",
+      "population": 116173
+    },
+    {
+      "name": "Homestead",
+      "population": 85796
+    },
+    {
+      "name": "Doral",
+      "population": 83625
+    }
+  ],
+  "monroe": [
+    {
+      "name": "Key West",
+      "population": 25240
+    },
+    {
+      "name": "Marathon",
+      "population": 10039
+    },
+    {
+      "name": "Islamorada, Village of Islands",
+      "population": 7013
+    },
+    {
+      "name": "Key Colony Beach",
+      "population": 749
+    },
+    {
+      "name": "Layton",
+      "population": 208
+    }
+  ],
+  "nassau": [
+    {
+      "name": "Fernandina Beach",
+      "population": 13672
+    },
+    {
+      "name": "Hilliard",
+      "population": 3077
+    },
+    {
+      "name": "Callahan",
+      "population": 1785
+    }
+  ],
+  "okaloosa": [
+    {
+      "name": "Crestview",
+      "population": 30727
+    },
+    {
+      "name": "Fort Walton Beach",
+      "population": 21188
+    },
+    {
+      "name": "Niceville",
+      "population": 17919
+    },
+    {
+      "name": "Destin",
+      "population": 13991
+    },
+    {
+      "name": "Valparaiso",
+      "population": 4852
+    }
+  ],
+  "okeechobee": [
+    {
+      "name": "Okeechobee",
+      "population": 5731
+    }
+  ],
+  "orange": [
+    {
+      "name": "Orlando",
+      "population": 334854
+    },
+    {
+      "name": "Apopka",
+      "population": 62777
+    },
+    {
+      "name": "Ocoee",
+      "population": 51269
+    },
+    {
+      "name": "Winter Garden",
+      "population": 48771
+    },
+    {
+      "name": "Winter Park",
+      "population": 30835
+    }
+  ],
+  "osceola": [
+    {
+      "name": "Kissimmee",
+      "population": 84756
+    },
+    {
+      "name": "St. Cloud",
+      "population": 71036
+    }
+  ],
+  "palm-beach": [
+    {
+      "name": "West Palm Beach",
+      "population": 127744
+    },
+    {
+      "name": "Boca Raton",
+      "population": 102238
+    },
+    {
+      "name": "Boynton Beach",
+      "population": 83095
+    },
+    {
+      "name": "Delray Beach",
+      "population": 70140
+    },
+    {
+      "name": "Palm Beach Gardens",
+      "population": 63284
+    }
+  ],
+  "pasco": [
+    {
+      "name": "Zephyrhills",
+      "population": 22304
+    },
+    {
+      "name": "New Port Richey",
+      "population": 18130
+    },
+    {
+      "name": "Dade City",
+      "population": 9662
+    },
+    {
+      "name": "Port Richey",
+      "population": 3637
+    },
+    {
+      "name": "St. Leo",
+      "population": 2472
+    }
+  ],
+  "pinellas": [
+    {
+      "name": "St. Petersburg",
+      "population": 267102
+    },
+    {
+      "name": "Clearwater",
+      "population": 116811
+    },
+    {
+      "name": "Largo",
+      "population": 82337
+    },
+    {
+      "name": "Pinellas Park",
+      "population": 53503
+    },
+    {
+      "name": "Dunedin",
+      "population": 35932
+    }
+  ],
+  "polk": [
+    {
+      "name": "Lakeland",
+      "population": 124990
+    },
+    {
+      "name": "Winter Haven",
+      "population": 59975
+    },
+    {
+      "name": "Haines City",
+      "population": 42073
+    },
+    {
+      "name": "Bartow",
+      "population": 22084
+    },
+    {
+      "name": "Auburndale",
+      "population": 20659
+    }
+  ],
+  "putnam": [
+    {
+      "name": "Palatka",
+      "population": 10867
+    },
+    {
+      "name": "Crescent City",
+      "population": 1724
+    },
+    {
+      "name": "Interlachen",
+      "population": 1508
+    },
+    {
+      "name": "Pomona Park",
+      "population": 824
+    },
+    {
+      "name": "Welaka",
+      "population": 763
+    }
+  ],
+  "st-johns": [
+    {
+      "name": "St. Augustine",
+      "population": 16033
+    },
+    {
+      "name": "St. Augustine Beach",
+      "population": 6808
+    },
+    {
+      "name": "Marineland town (pt.)",
+      "population": 1
+    }
+  ],
+  "st-lucie": [
+    {
+      "name": "Port St. Lucie",
+      "population": 258575
+    },
+    {
+      "name": "Fort Pierce",
+      "population": 50805
+    },
+    {
+      "name": "St. Lucie Village",
+      "population": 615
+    }
+  ],
+  "santa-rosa": [
+    {
+      "name": "Milton",
+      "population": 11182
+    },
+    {
+      "name": "Gulf Breeze",
+      "population": 6955
+    },
+    {
+      "name": "Jay",
+      "population": 583
+    }
+  ],
+  "sarasota": [
+    {
+      "name": "North Port",
+      "population": 92875
+    },
+    {
+      "name": "Sarasota",
+      "population": 57764
+    },
+    {
+      "name": "Venice",
+      "population": 29902
+    },
+    {
+      "name": "Longboat Key town (pt.)",
+      "population": 4719
+    }
+  ],
+  "seminole": [
+    {
+      "name": "Sanford",
+      "population": 66919
+    },
+    {
+      "name": "Altamonte Springs",
+      "population": 47261
+    },
+    {
+      "name": "Oviedo",
+      "population": 41901
+    },
+    {
+      "name": "Winter Springs",
+      "population": 39822
+    },
+    {
+      "name": "Casselberry",
+      "population": 31650
+    }
+  ],
+  "sumter": [
+    {
+      "name": "Wildwood",
+      "population": 19031
+    },
+    {
+      "name": "Bushnell",
+      "population": 3193
+    },
+    {
+      "name": "Center Hill",
+      "population": 1055
+    },
+    {
+      "name": "Webster",
+      "population": 965
+    },
+    {
+      "name": "Coleman",
+      "population": 789
+    }
+  ],
+  "suwannee": [
+    {
+      "name": "Live Oak",
+      "population": 7200
+    },
+    {
+      "name": "Branford",
+      "population": 772
+    }
+  ],
+  "taylor": [
+    {
+      "name": "Perry",
+      "population": 7306
+    }
+  ],
+  "union": [
+    {
+      "name": "Lake Butler",
+      "population": 1983
+    },
+    {
+      "name": "Worthington Springs",
+      "population": 380
+    },
+    {
+      "name": "Raiford",
+      "population": 224
+    }
+  ],
+  "volusia": [
+    {
+      "name": "Deltona",
+      "population": 100513
+    },
+    {
+      "name": "Daytona Beach",
+      "population": 86015
+    },
+    {
+      "name": "Port Orange",
+      "population": 66556
+    },
+    {
+      "name": "DeLand",
+      "population": 45587
+    },
+    {
+      "name": "Ormond Beach",
+      "population": 44596
+    }
+  ],
+  "wakulla": [
+    {
+      "name": "Sopchoppy",
+      "population": 476
+    },
+    {
+      "name": "St. Marks",
+      "population": 312
+    }
+  ],
+  "walton": [
+    {
+      "name": "Freeport",
+      "population": 7234
+    },
+    {
+      "name": "DeFuniak Springs",
+      "population": 7048
+    },
+    {
+      "name": "Paxton",
+      "population": 668
+    }
+  ],
+  "washington": [
+    {
+      "name": "Chipley",
+      "population": 3741
+    },
+    {
+      "name": "Vernon",
+      "population": 744
+    },
+    {
+      "name": "Wausau",
+      "population": 390
+    },
+    {
+      "name": "Caryville",
+      "population": 318
+    },
+    {
+      "name": "Ebro",
+      "population": 246
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "alachua": {
+    "population": 281751,
+    "countyFips": "001",
+    "vintage": "ACS5 2023"
+  },
+  "baker": {
+    "population": 28186,
+    "countyFips": "003",
+    "vintage": "ACS5 2023"
+  },
+  "bay": {
+    "population": 181368,
+    "countyFips": "005",
+    "vintage": "ACS5 2023"
+  },
+  "bradford": {
+    "population": 27888,
+    "countyFips": "007",
+    "vintage": "ACS5 2023"
+  },
+  "brevard": {
+    "population": 620533,
+    "countyFips": "009",
+    "vintage": "ACS5 2023"
+  },
+  "broward": {
+    "population": 1946127,
+    "countyFips": "011",
+    "vintage": "ACS5 2023"
+  },
+  "calhoun": {
+    "population": 13593,
+    "countyFips": "013",
+    "vintage": "ACS5 2023"
+  },
+  "charlotte": {
+    "population": 195083,
+    "countyFips": "015",
+    "vintage": "ACS5 2023"
+  },
+  "citrus": {
+    "population": 158693,
+    "countyFips": "017",
+    "vintage": "ACS5 2023"
+  },
+  "clay": {
+    "population": 223436,
+    "countyFips": "019",
+    "vintage": "ACS5 2023"
+  },
+  "collier": {
+    "population": 387681,
+    "countyFips": "021",
+    "vintage": "ACS5 2023"
+  },
+  "columbia": {
+    "population": 70755,
+    "countyFips": "023",
+    "vintage": "ACS5 2023"
+  },
+  "desoto": {
+    "population": 34719,
+    "countyFips": "027",
+    "vintage": "ACS5 2023"
+  },
+  "dixie": {
+    "population": 16952,
+    "countyFips": "029",
+    "vintage": "ACS5 2023"
+  },
+  "duval": {
+    "population": 1007189,
+    "countyFips": "031",
+    "vintage": "ACS5 2023"
+  },
+  "escambia": {
+    "population": 323275,
+    "countyFips": "033",
+    "vintage": "ACS5 2023"
+  },
+  "flagler": {
+    "population": 121710,
+    "countyFips": "035",
+    "vintage": "ACS5 2023"
+  },
+  "franklin": {
+    "population": 12418,
+    "countyFips": "037",
+    "vintage": "ACS5 2023"
+  },
+  "gadsden": {
+    "population": 43642,
+    "countyFips": "039",
+    "vintage": "ACS5 2023"
+  },
+  "gilchrist": {
+    "population": 18494,
+    "countyFips": "041",
+    "vintage": "ACS5 2023"
+  },
+  "glades": {
+    "population": 12324,
+    "countyFips": "043",
+    "vintage": "ACS5 2023"
+  },
+  "gulf": {
+    "population": 14772,
+    "countyFips": "045",
+    "vintage": "ACS5 2023"
+  },
+  "hamilton": {
+    "population": 13445,
+    "countyFips": "047",
+    "vintage": "ACS5 2023"
+  },
+  "hardee": {
+    "population": 25508,
+    "countyFips": "049",
+    "vintage": "ACS5 2023"
+  },
+  "hendry": {
+    "population": 40798,
+    "countyFips": "051",
+    "vintage": "ACS5 2023"
+  },
+  "hernando": {
+    "population": 201512,
+    "countyFips": "053",
+    "vintage": "ACS5 2023"
+  },
+  "highlands": {
+    "population": 103808,
+    "countyFips": "055",
+    "vintage": "ACS5 2023"
+  },
+  "hillsborough": {
+    "population": 1489634,
+    "countyFips": "057",
+    "vintage": "ACS5 2023"
+  },
+  "holmes": {
+    "population": 19626,
+    "countyFips": "059",
+    "vintage": "ACS5 2023"
+  },
+  "indian-river": {
+    "population": 163856,
+    "countyFips": "061",
+    "vintage": "ACS5 2023"
+  },
+  "jackson": {
+    "population": 47652,
+    "countyFips": "063",
+    "vintage": "ACS5 2023"
+  },
+  "jefferson": {
+    "population": 14713,
+    "countyFips": "065",
+    "vintage": "ACS5 2023"
+  },
+  "lafayette": {
+    "population": 8035,
+    "countyFips": "067",
+    "vintage": "ACS5 2023"
+  },
+  "lake": {
+    "population": 398696,
+    "countyFips": "069",
+    "vintage": "ACS5 2023"
+  },
+  "lee": {
+    "population": 792692,
+    "countyFips": "071",
+    "vintage": "ACS5 2023"
+  },
+  "leon": {
+    "population": 295335,
+    "countyFips": "073",
+    "vintage": "ACS5 2023"
+  },
+  "levy": {
+    "population": 44276,
+    "countyFips": "075",
+    "vintage": "ACS5 2023"
+  },
+  "liberty": {
+    "population": 7650,
+    "countyFips": "077",
+    "vintage": "ACS5 2023"
+  },
+  "madison": {
+    "population": 18113,
+    "countyFips": "079",
+    "vintage": "ACS5 2023"
+  },
+  "manatee": {
+    "population": 416020,
+    "countyFips": "081",
+    "vintage": "ACS5 2023"
+  },
+  "marion": {
+    "population": 387697,
+    "countyFips": "083",
+    "vintage": "ACS5 2023"
+  },
+  "martin": {
+    "population": 160464,
+    "countyFips": "085",
+    "vintage": "ACS5 2023"
+  },
+  "miami-dade": {
+    "population": 2685296,
+    "countyFips": "086",
+    "vintage": "ACS5 2023"
+  },
+  "monroe": {
+    "population": 81840,
+    "countyFips": "087",
+    "vintage": "ACS5 2023"
+  },
+  "nassau": {
+    "population": 94653,
+    "countyFips": "089",
+    "vintage": "ACS5 2023"
+  },
+  "okaloosa": {
+    "population": 214281,
+    "countyFips": "091",
+    "vintage": "ACS5 2023"
+  },
+  "okeechobee": {
+    "population": 40249,
+    "countyFips": "093",
+    "vintage": "ACS5 2023"
+  },
+  "orange": {
+    "population": 1440471,
+    "countyFips": "095",
+    "vintage": "ACS5 2023"
+  },
+  "osceola": {
+    "population": 406943,
+    "countyFips": "097",
+    "vintage": "ACS5 2023"
+  },
+  "palm-beach": {
+    "population": 1507453,
+    "countyFips": "099",
+    "vintage": "ACS5 2023"
+  },
+  "pasco": {
+    "population": 588758,
+    "countyFips": "101",
+    "vintage": "ACS5 2023"
+  },
+  "pinellas": {
+    "population": 960565,
+    "countyFips": "103",
+    "vintage": "ACS5 2023"
+  },
+  "polk": {
+    "population": 760961,
+    "countyFips": "105",
+    "vintage": "ACS5 2023"
+  },
+  "putnam": {
+    "population": 74235,
+    "countyFips": "107",
+    "vintage": "ACS5 2023"
+  },
+  "st-johns": {
+    "population": 292243,
+    "countyFips": "109",
+    "vintage": "ACS5 2023"
+  },
+  "st-lucie": {
+    "population": 346237,
+    "countyFips": "111",
+    "vintage": "ACS5 2023"
+  },
+  "santa-rosa": {
+    "population": 193719,
+    "countyFips": "113",
+    "vintage": "ACS5 2023"
+  },
+  "sarasota": {
+    "population": 449011,
+    "countyFips": "115",
+    "vintage": "ACS5 2023"
+  },
+  "seminole": {
+    "population": 474912,
+    "countyFips": "117",
+    "vintage": "ACS5 2023"
+  },
+  "sumter": {
+    "population": 137536,
+    "countyFips": "119",
+    "vintage": "ACS5 2023"
+  },
+  "suwannee": {
+    "population": 44484,
+    "countyFips": "121",
+    "vintage": "ACS5 2023"
+  },
+  "taylor": {
+    "population": 21422,
+    "countyFips": "123",
+    "vintage": "ACS5 2023"
+  },
+  "union": {
+    "population": 15551,
+    "countyFips": "125",
+    "vintage": "ACS5 2023"
+  },
+  "volusia": {
+    "population": 568229,
+    "countyFips": "127",
+    "vintage": "ACS5 2023"
+  },
+  "wakulla": {
+    "population": 34608,
+    "countyFips": "129",
+    "vintage": "ACS5 2023"
+  },
+  "walton": {
+    "population": 79846,
+    "countyFips": "131",
+    "vintage": "ACS5 2023"
+  },
+  "washington": {
+    "population": 25259,
+    "countyFips": "133",
+    "vintage": "ACS5 2023"
+  }
+}
