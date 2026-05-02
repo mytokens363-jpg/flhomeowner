@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import ToolPageLayout from "@/components/ToolPageLayout";
 import LeadCTA from "@/components/LeadCTA";
@@ -246,6 +247,22 @@ export default async function CountyFloodPage({ params }: { params: Params }) {
                 </p>
               </section>
             )}
+
+            <Link
+              href={`/property-tax/${slug}`}
+              className="block rounded-xl border border-deep/15 bg-white px-5 py-4 hover:border-coral hover:bg-coral/5 transition"
+            >
+              <span className="text-xs uppercase tracking-widest text-deep/50">
+                Related tool
+              </span>
+              <span className="block mt-1 font-medium text-deep">
+                Property tax calculator for {c.name} County →
+              </span>
+              <span className="block text-sm text-deep/60 mt-1">
+                Estimate annual property taxes, including homestead and Save Our
+                Homes.
+              </span>
+            </Link>
 
             <LeadCTA
               variant={slug === "broward" ? "broward" : "statewide"}

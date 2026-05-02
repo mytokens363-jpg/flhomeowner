@@ -1,5 +1,7 @@
 import { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
+import floodCountyData from "@/data/flood-county-data.json";
 import ToolPageLayout from "@/components/ToolPageLayout";
 import LeadCTA from "@/components/LeadCTA";
 import FAQ from "@/components/FAQ";
@@ -69,6 +71,23 @@ export default async function CountyPropertyTaxPage({ params }: { params: Params
         subtitle={`Average millage: ${county.millage} mills. County seat: ${county.seat}.`}
         belowTool={
           <div className="space-y-10">
+            {county.slug in (floodCountyData as Record<string, unknown>) && (
+              <Link
+                href={`/flood-zone/county/${county.slug}`}
+                className="block rounded-xl border border-deep/15 bg-white px-5 py-4 hover:border-coral hover:bg-coral/5 transition"
+              >
+                <span className="text-xs uppercase tracking-widest text-deep/50">
+                  Related tool
+                </span>
+                <span className="block mt-1 font-medium text-deep">
+                  Flood zones in {county.name} County →
+                </span>
+                <span className="block text-sm text-deep/60 mt-1">
+                  FEMA flood-zone lookup, hurricane history, and storm-surge
+                  risk profile.
+                </span>
+              </Link>
+            )}
             <LeadCTA
               variant={county.slug === "broward" ? "broward" : "statewide"}
               context={`Considering buying or selling in ${county.name} County? Talk to a local FL agent.`}

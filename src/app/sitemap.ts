@@ -12,6 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/flood-zone`, lastModified: now, priority: 0.9 },
     { url: `${BASE}/property-tax`, lastModified: now, priority: 0.9 },
     { url: `${BASE}/evacuation-zone`, lastModified: now, priority: 0.9 },
+    { url: `${BASE}/flood-zone/county`, lastModified: now, priority: 0.8 },
     { url: `${BASE}/about`, lastModified: now, priority: 0.4 },
     { url: `${BASE}/contact`, lastModified: now, priority: 0.4 },
     { url: `${BASE}/privacy`, lastModified: now, priority: 0.3 },
