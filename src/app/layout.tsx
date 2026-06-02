@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -13,7 +14,13 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "FL Homeowner",
   },
+  other: {
+    // AdSense ownership verification meta tag (belt + suspenders alongside the script)
+    "google-adsense-account": "ca-pub-4688530569366595",
+  },
 };
+
+const ADSENSE_CLIENT = "ca-pub-4688530569366595";
 
 export default function RootLayout({
   children,
@@ -23,12 +30,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Google AdSense — replace ca-pub-XXX after approval */}
-        {/* <script
+        {/* Google AdSense — verification + ad serving */}
+        <Script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
           crossOrigin="anonymous"
-        /> */}
+          strategy="afterInteractive"
+        />
       </head>
       <body className="font-sans antialiased">
         <header className="border-b border-deep/10 bg-sand">
