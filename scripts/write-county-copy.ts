@@ -50,6 +50,9 @@ async function writeCopy(county: object): Promise<string> {
       ],
       temperature: 0.75,
       max_tokens: 2500,
+      // Qwen3.5 reasoning models emit everything into reasoning_content and
+      // leave content empty unless thinking is explicitly disabled.
+      chat_template_kwargs: { enable_thinking: false },
     }),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}: ${await res.text()}`);
